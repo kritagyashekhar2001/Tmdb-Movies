@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629546544873",
+    "project_id": "tmdb-movie-da643",
+    "storage_bucket": "tmdb-movie-da643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629546544873:android:b7d8ffc692241f9af98a78",
+        "android_client_info": {
+          "package_name": "com.example.tmdb_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629546544873-6ivk9i8fu1ck8g3mb479r6jt2no9bfme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tmdb_movie",
+            "certificate_hash": "85b27205bc637b03488ca2d316051f40ebc0e308"
+          }
+        },
+        {
+          "client_id": "629546544873-j4semqm46vr94qh29akb301hl530d69h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxldnKY6N_7bwY1mTB15vJJym4ZFgjItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629546544873-j4semqm46vr94qh29akb301hl530d69h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
