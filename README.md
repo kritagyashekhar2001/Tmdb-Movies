@@ -1,18 +1,12 @@
 # tmdb_movie
 
-A new Flutter project.
+A Flutter app that shows movies and tv shows according to their ratings.
+## Features
 
-## Getting Started
+- Cross platform
+- State management using GetX
+- Make using MVC project structure
+- Using TMDB Api
+# screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tmdb_api_app
-# Tmdb-Movies
+<img src='https://user-images.githubusercontent.com/93006120/167949407-5fe921bd-2fe8-4b8e-b530-a3532c47654d.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/167949428-feddec64-f54a-4537-bd70-d3165f08061f.png' width='250' height='510'/> 
